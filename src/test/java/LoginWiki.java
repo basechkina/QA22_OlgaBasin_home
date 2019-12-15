@@ -20,7 +20,6 @@ public class LoginWiki {
         driver.findElement(By.id("pt-login")).click();
         driver.findElement(By.id("wpName1")).click();
         driver.findElement(By.id("wpName1")).clear();
-        Thread.sleep(3000);
         driver.findElement(By.id("wpName1")).sendKeys("olgatester22@gmail.com");
         driver.findElement(By.id("wpPassword1")).click();
         driver.findElement(By.id("wpPassword1")).clear();
