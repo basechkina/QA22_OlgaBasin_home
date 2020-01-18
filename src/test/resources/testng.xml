@@ -3,7 +3,7 @@
 <suite name="Trello" verbose="1" >
     <test name="SmokyTest" >
         <classes>
-            <class name="LoginWiki" />
+            <class name="com.wikipedia.olga.tests.LoginWiki" />
         </classes>
     </test>
 </suite>
