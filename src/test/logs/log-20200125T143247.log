@@ -1,0 +1,6 @@
+2020-01-25 14:32:50,730 INFO [Test worker] c.w.o.t.TestBase [TestBase.java:21] Start test searchArticleTestCSV with parameters [articleName='Java'}]
+2020-01-25 14:32:52,996 INFO [Test worker] c.w.o.t.TestBase [TestBase.java:27] Stop test searchArticleTestCSV
+2020-01-25 14:32:52,998 INFO [Test worker] c.w.o.t.TestBase [TestBase.java:21] Start test searchArticleTestCSV with parameters [articleName='Selenium'}]
+2020-01-25 14:32:54,612 INFO [Test worker] c.w.o.t.TestBase [TestBase.java:27] Stop test searchArticleTestCSV
+2020-01-25 14:32:54,614 INFO [Test worker] c.w.o.t.TestBase [TestBase.java:21] Start test searchArticleTestCSV with parameters [articleName='QA'}]
+2020-01-25 14:32:55,876 INFO [Test worker] c.w.o.t.TestBase [TestBase.java:27] Stop test searchArticleTestCSV

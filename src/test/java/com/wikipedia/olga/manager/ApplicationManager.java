@@ -13,6 +13,7 @@ public class ApplicationManager  {
     WebDriver wd;
 
     SessionHelper sessionHelper;
+    ArticleHelper articleHelper;
 
     public void init() {
         String browser = System.getProperty("browser", BrowserType.CHROME);
@@ -28,7 +29,13 @@ public class ApplicationManager  {
         wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         wd.get("https://www.wikipedia.org/");
 
+
         sessionHelper = new SessionHelper(wd);
+        articleHelper = new ArticleHelper(wd);
+    }
+
+    public void setArticleHelper(ArticleHelper articleHelper) {
+        this.articleHelper = articleHelper;
     }
 
     public void stop() {
@@ -38,4 +45,11 @@ public class ApplicationManager  {
     public SessionHelper getSessionHelper() {
         return sessionHelper;
     }
+
+    public ArticleHelper getArticleHelper() {
+        return articleHelper;
+    }
+
+    public void back (){ wd.navigate().back();}
 }
+

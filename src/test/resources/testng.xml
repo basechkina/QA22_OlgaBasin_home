@@ -4,6 +4,7 @@
     <test name="SmokyTest" >
         <classes>
             <class name="com.wikipedia.olga.tests.LoginWiki" />
+            <class name="com.wikipedia.olga.tests.SearchArticleTests" />
         </classes>
     </test>
 </suite>
