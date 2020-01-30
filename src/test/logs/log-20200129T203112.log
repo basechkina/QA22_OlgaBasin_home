@@ -1,0 +1,20 @@
+2020-01-29 20:31:16,108 INFO [Test worker] c.w.o.t.TestBase [TestBase.java:21] Start test openWikipediaTest with parameters []
+2020-01-29 20:31:16,122 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: js-link-box-en
+2020-01-29 20:31:16,141 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: js-link-box-en found!
+2020-01-29 20:31:19,672 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: pt-login
+2020-01-29 20:31:19,712 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: pt-login found!
+2020-01-29 20:31:24,225 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: wpName1
+2020-01-29 20:31:24,250 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: wpName1 found!
+2020-01-29 20:31:24,313 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: wpName1
+2020-01-29 20:31:24,324 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: wpName1 found!
+2020-01-29 20:31:24,349 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: wpName1
+2020-01-29 20:31:24,360 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: wpName1 found!
+2020-01-29 20:31:24,527 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: wpPassword1
+2020-01-29 20:31:24,545 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: wpPassword1 found!
+2020-01-29 20:31:24,590 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: wpPassword1
+2020-01-29 20:31:24,601 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: wpPassword1 found!
+2020-01-29 20:31:24,629 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: wpPassword1
+2020-01-29 20:31:24,641 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: wpPassword1 found!
+2020-01-29 20:31:27,708 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:34] Search element By.id: wpLoginAttempt
+2020-01-29 20:31:27,731 INFO [Test worker] c.w.o.m.ApplicationManager$MyListener [ApplicationManager.java:39] By.id: wpLoginAttempt found!
+2020-01-29 20:31:29,823 INFO [Test worker] c.w.o.t.TestBase [TestBase.java:27] Stop test openWikipediaTest
